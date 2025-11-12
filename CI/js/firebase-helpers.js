@@ -1,3 +1,4 @@
+
 // Firebase Helper Functions for Enhanced Interactions
 class FirebaseHelpers {
     constructor() {
