@@ -6,8 +6,8 @@ class FirebaseConfig {
     
     public function __construct() {
         // Replace with your Firebase project details
-        $this->databaseUrl = 'https://your-cafe-project.firebaseio.com/';
-        $this->apiKey = 'your-firebase-api-key';
+        $this->databaseUrl = 'https://cafe-iyah-5869e-default-rtdb.asia-southeast1.firebasedatabase.app/';
+        $this->apiKey = 'AIzaSyCSRi9IyNkK6DA6YYfnAdzI9LigkgTVG24';
     }
     
     // GET request to Firebase with enhanced error handling
