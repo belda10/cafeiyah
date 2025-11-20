@@ -228,7 +228,7 @@
         
         .coffee-card {
             flex: 0 0 280px;
-            background-color: var(--cream);
+            background-color: #3a322b;
             border-radius: 10px;
             overflow: hidden;
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
@@ -248,7 +248,7 @@
         
         .coffee-card h3 {
             padding: 1rem 1rem 0.5rem;
-            color: var(--dark-gray);
+            color: var(--cream);
         }
         
         .rating {
@@ -468,7 +468,7 @@
             <div class="coffee-items-carousel">
 
                 <div class="coffee-card">
-                    <img src="https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Mocha Java Chip" />
+                    <img src="/CI/img/MochaJavaChip.PNG" alt="Mocha Java Chip" />
                     <h3>MOCHA JAVA CHIP</h3>
                     <div class="rating">⭐ 4.5</div>
                     <select>
@@ -482,7 +482,7 @@
                 </div>
 
                 <div class="coffee-card">
-                    <img src="https://images.unsplash.com/photo-1561047029-3000c68339ca?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="White Mocha Latte" />
+                    <img src="/CI/img/WhiteMochaLatte.PNG" alt="White Mocha Latte" />
                     <h3>WHITE MOCHA LATTE</h3>
                     <div class="rating">⭐ 4.7</div>
                     <select>
@@ -496,8 +496,8 @@
                 </div>
 
                 <div class="coffee-card">
-                    <img src="https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Cappuccino" />
-                    <h3>CAPPUCCINO</h3>
+                    <img src="/CI/img/ChocoCremeLatte.PNG" alt="Cappuccino" />
+                    <h3>CHOCO CREME LATTE</h3>
                     <div class="rating">⭐ 4.5</div>
                     <select>
                         <option value="">SIZE</option>
@@ -510,8 +510,8 @@
                 </div>
 
                 <div class="coffee-card">
-                    <img src="https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Espresso" />
-                    <h3>ESPRESSO</h3>
+                    <img src="/CI/img/MochaHazelnutLatte.PNG" alt="Espresso" />
+                    <h3>MOCHA HAZELNUT LATTE</h3>
                     <div class="rating">⭐ 4.6</div>
                     <select>
                         <option value="">SIZE</option>
@@ -524,7 +524,7 @@
                 </div>
 
                 <div class="coffee-card">
-                    <img src="https://images.unsplash.com/photo-1561047029-3000c68339ca?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Spanish Latte" />
+                    <img src="/CI/img/SpanishLatte.PNG" alt="Spanish Latte" />
                     <h3>SPANISH LATTE</h3>
                     <div class="rating">⭐ 4.8</div>
                     <select>
